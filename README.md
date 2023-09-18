@@ -6,7 +6,7 @@ Kittygram - это уникальная платформа, которая по�
 ## Ссылка на развернутый проект
 [Kittygram](https://kittygramwork.site/)
 
-![Build Status](https://github.com/Ilya-Reznikov60/kittygram_final/workflows/Main%20Kittygram%20workflow/badge.svg)](https://github.com/Ilya-Reznikov60/kittygram_final/actions/workflows/main.yml)
+[![Build Status](https://github.com/Ilya-Reznikov60/kittygram_final/workflows/Main%20Kittygram%20workflow/badge.svg)](https://github.com/Ilya-Reznikov60/kittygram_final/actions/workflows/main.yml)
 
 ## Описание версий
 
